@@ -1,0 +1,45 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.history/
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+.env.*
+*.p12
+*.p8
+*.asc
+*credentials*.json
+*secret*.json
+*.pem
+*.key
+*.cert
+*.pfx
+secrets/
+
+# Dependencies & Build Artefacts
+node_modules/
+dist/
+build/
+.cache/
+
+# Local Temporary & Server Scripts
+*.log
+*.zip
