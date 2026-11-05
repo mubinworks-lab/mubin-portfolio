@@ -1,0 +1,332 @@
+{
+  "meigen-2009339340418371647.jpg": {
+    "width": 1529,
+    "height": 2048,
+    "aspect": "1529:2048",
+    "palette": [
+      "#ebe6dd",
+      "#d2ad83",
+      "#0e0806",
+      "#9a5f33"
+    ]
+  },
+  "meigen-2051704039868669986.jpg": {
+    "width": 1200,
+    "height": 960,
+    "aspect": "1200:960",
+    "palette": [
+      "#f6f1ec",
+      "#d3b892",
+      "#b07730",
+      "#4e220b"
+    ]
+  },
+  "meigen-2052733703223406942.jpg": {
+    "width": 900,
+    "height": 1200,
+    "aspect": "900:1200",
+    "palette": [
+      "#0b0d0a",
+      "#34402f",
+      "#71896b",
+      "#c3c7cb"
+    ]
+  },
+  "meigen-2061657972145635434.jpg": {
+    "width": 894,
+    "height": 1200,
+    "aspect": "894:1200",
+    "palette": [
+      "#ecebe8",
+      "#bebbb4",
+      "#9f8e59",
+      "#424852"
+    ]
+  },
+  "meigen-2063258618028609602.jpg": {
+    "width": 1080,
+    "height": 1080,
+    "aspect": "1080:1080",
+    "palette": [
+      "#6f4e41",
+      "#fcfbfa",
+      "#2e2018",
+      "#d49e64"
+    ]
+  },
+  "meigen-2065226939145789813.jpg": {
+    "width": 896,
+    "height": 1200,
+    "aspect": "896:1200",
+    "palette": [
+      "#806d3d",
+      "#3a3411",
+      "#c2a37a",
+      "#fcf9f1"
+    ]
+  },
+  "meigen-2065855946845503769-1.jpg": {
+    "width": 960,
+    "height": 1200,
+    "aspect": "960:1200",
+    "palette": [
+      "#0d2404",
+      "#4a6404",
+      "#be8c20",
+      "#f2dbb1"
+    ]
+  },
+  "meigen-2065855946845503769-2.jpg": {
+    "width": 960,
+    "height": 1200,
+    "aspect": "960:1200",
+    "palette": [
+      "#1d0901",
+      "#632505",
+      "#cd7626",
+      "#e8cca4"
+    ]
+  },
+  "meigen-2065855946845503769-3.jpg": {
+    "width": 960,
+    "height": 1200,
+    "aspect": "960:1200",
+    "palette": [
+      "#180301",
+      "#711108",
+      "#d35324",
+      "#efd7bd"
+    ]
+  },
+  "meigen-2065855946845503769-4.jpg": {
+    "width": 900,
+    "height": 1200,
+    "aspect": "900:1200",
+    "palette": [
+      "#0c0706",
+      "#0b466d",
+      "#a75021",
+      "#e8c194"
+    ]
+  },
+  "meigen-2068736795827646513.jpg": {
+    "width": 960,
+    "height": 1200,
+    "aspect": "960:1200",
+    "palette": [
+      "#230e0f",
+      "#504149",
+      "#92817e",
+      "#d8d1ce"
+    ]
+  },
+  "meigen-2071211921521750057-1.jpg": {
+    "width": 800,
+    "height": 1200,
+    "aspect": "800:1200",
+    "palette": [
+      "#d8ccbe",
+      "#1e2d38",
+      "#8b523a",
+      "#62a4cd"
+    ]
+  },
+  "meigen-2078023882619990227.jpg": {
+    "width": 1200,
+    "height": 1200,
+    "aspect": "1200:1200",
+    "palette": [
+      "#b50306",
+      "#390a07",
+      "#b05e50",
+      "#f3dcd9"
+    ]
+  },
+  "meigen-2080598158334419372-2.jpg": {
+    "width": 960,
+    "height": 1200,
+    "aspect": "960:1200",
+    "palette": [
+      "#7f4c36",
+      "#b6795d",
+      "#e7b298",
+      "#271b26"
+    ]
+  },
+  "meigen-2088523005672702177-2.jpg": {
+    "width": 960,
+    "height": 1200,
+    "aspect": "960:1200",
+    "palette": [
+      "#413022",
+      "#7c6a59",
+      "#c0ab93",
+      "#b4ccd7"
+    ]
+  },
+  "meigen-2109813513040658766.jpg": {
+    "width": 1125,
+    "height": 1200,
+    "aspect": "1125:1200",
+    "palette": [
+      "#221b14",
+      "#684f37",
+      "#b89162",
+      "#e7d8c4"
+    ]
+  },
+  "meigen-community_2b1c8c7f-0922-4813-a559-b8b1a124979d.png": {
+    "width": 1024,
+    "height": 1344,
+    "aspect": "1024:1344",
+    "palette": [
+      "#fbd8d6",
+      "#d07374",
+      "#b55556",
+      "#e69d97"
+    ]
+  },
+  "meigen-community_3a7ea599-5f7e-49f3-a83a-b1db10fe7a8b.png": {
+    "width": 1024,
+    "height": 1344,
+    "aspect": "1024:1344",
+    "palette": [
+      "#062676",
+      "#ddd3c7",
+      "#041541",
+      "#998a7a"
+    ]
+  },
+  "meigen-community_60523856-283f-493c-9ab1-bac9b1454e2c.png": {
+    "width": 1344,
+    "height": 1776,
+    "aspect": "1344:1776",
+    "palette": [
+      "#d39b6a",
+      "#f0d5b6",
+      "#a05c34",
+      "#251810"
+    ]
+  },
+  "meigen-community_61d7f273-485e-404f-a95f-8be985d15083.png": {
+    "width": 1024,
+    "height": 1344,
+    "aspect": "1024:1344",
+    "palette": [
+      "#edebeb",
+      "#d1a664",
+      "#144690",
+      "#544430"
+    ]
+  },
+  "meigen-community_83c86cb0-c2c8-4f83-b9cd-e45ba55f0112.png": {
+    "width": 1024,
+    "height": 1024,
+    "aspect": "1024:1024",
+    "palette": [
+      "#eeebea",
+      "#d5d0cf",
+      "#b8ab9f",
+      "#4b362b"
+    ]
+  },
+  "meigen-community_9ea29a2a-5e92-471a-9381-a936a558a60d.png": {
+    "width": 1152,
+    "height": 2048,
+    "aspect": "1152:2048",
+    "palette": [
+      "#f3e9df",
+      "#381a0a",
+      "#865330",
+      "#c79970"
+    ]
+  },
+  "meigen-community_af825471-c640-410f-9189-6a5ea9948e75.png": {
+    "width": 1024,
+    "height": 1280,
+    "aspect": "1024:1280",
+    "palette": [
+      "#2f1815",
+      "#643225",
+      "#a05b3f",
+      "#cb9471"
+    ]
+  },
+  "meigen-community_b0b42b8b-8f53-4aba-81cd-77ca1bd1a809.png": {
+    "width": 1792,
+    "height": 1008,
+    "aspect": "1792:1008",
+    "palette": [
+      "#dddfde",
+      "#303e45",
+      "#999791",
+      "#1e81a1"
+    ]
+  },
+  "meigen-community_b6bae999-b933-4075-90d5-7fd18e32848e.png": {
+    "width": 2048,
+    "height": 1152,
+    "aspect": "2048:1152",
+    "palette": [
+      "#ececeb",
+      "#c2c0bd",
+      "#292923",
+      "#777161"
+    ]
+  },
+  "meigen-community_c61b1251-795d-4be5-8982-cd7eb7ec60da.png": {
+    "width": 2048,
+    "height": 2048,
+    "aspect": "2048:2048",
+    "palette": [
+      "#dbd1c3",
+      "#1d1109",
+      "#957960",
+      "#57402c"
+    ]
+  },
+  "meigen-community_cd234139-3b8b-4d93-a59e-dda821c33e41.png": {
+    "width": 1344,
+    "height": 1776,
+    "aspect": "1344:1776",
+    "palette": [
+      "#ede5dd",
+      "#173c7d",
+      "#a49b66",
+      "#3c421d"
+    ]
+  },
+  "meigen-community_cf38df7d-c1a3-4d87-9b60-e2f18ed1daba.png": {
+    "width": 864,
+    "height": 1152,
+    "aspect": "864:1152",
+    "palette": [
+      "#ddd8d0",
+      "#795138",
+      "#412313",
+      "#b38e6d"
+    ]
+  },
+  "meigen-community_e416c690-bc3c-4c4d-bb50-c13c4c7d96d7.png": {
+    "width": 1024,
+    "height": 1344,
+    "aspect": "1024:1344",
+    "palette": [
+      "#f9f7f4",
+      "#b4a457",
+      "#d7d1ad",
+      "#6e612a"
+    ]
+  },
+  "meigen-community_f3c4ac60-610f-4888-bd7f-3ccb648dc33b.png": {
+    "width": 1024,
+    "height": 1536,
+    "aspect": "1024:1536",
+    "palette": [
+      "#d10b11",
+      "#f7f1ef",
+      "#d3965f",
+      "#541413"
+    ]
+  }
+}
