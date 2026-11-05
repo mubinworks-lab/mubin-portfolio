@@ -722,12 +722,12 @@
   <!-- ================================================= -->
   <!-- FLOATING BOTTOM GLASS DOCK (LUXURY MINIMAL)       -->
   <!-- ================================================= -->
-  <nav class="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 px-4 w-full max-w-fit pointer-events-auto">
-    <div class="luxury-card rounded-full px-3.5 sm:px-6 py-2.5 sm:py-3 flex items-center justify-between gap-3 sm:gap-6 border border-slate-200/90 bg-white/90 backdrop-blur-xl shadow-2xl">
+  <nav aria-label="Portfolio sections" class="bottom-dock fixed bottom-4 sm:bottom-6 left-1/2 -translate-x-1/2 z-50 pointer-events-auto">
+    <div class="luxury-card bottom-dock-inner rounded-full px-3.5 sm:px-6 py-2.5 sm:py-3 flex items-center justify-between gap-3 sm:gap-6 border border-slate-200/90 bg-white/90 backdrop-blur-xl shadow-2xl">
       
-      <!-- Real Photo Avatar of Mubin (Personal Sunglasses Portrait) -->
+      <!-- Natural portrait, framed around the face -->
       <a href="#hero" class="flex items-center gap-2.5 group flex-shrink-0" title="Shaikh Mubin">
-        <img src="assets/personal/avatar_sunglasses.webp" alt="Shaikh Mubin" class="w-8 h-8 rounded-full object-cover border-2 border-white shadow-sm transition-transform group-hover:scale-105">
+        <span class="bottom-dock-avatar border-2 border-white shadow-sm"><img src="assets/personal/1731252557722.jpg" alt="Shaikh Mubin"></span>
         <div class="hidden sm:block">
           <div class="font-display font-bold text-xs tracking-tight text-slate-900 leading-tight">
             SHAIKH MUBIN
@@ -741,7 +741,7 @@
       <div class="h-4 w-px bg-slate-200 hidden sm:block"></div>
 
       <!-- Nav Links WITHOUT Numbers -->
-      <div class="flex items-center gap-3 sm:gap-6 text-xs font-mono font-medium text-slate-600">
+      <div class="bottom-dock-links flex items-center gap-3 sm:gap-6 text-xs font-mono font-medium text-slate-600">
         <a href="#projects" class="hover:text-blue-600 transition-colors">Projects</a>
         <a href="#graphics-showcase" class="hover:text-blue-600 transition-colors">Graphic Design</a>
         <a href="#video-showcase" class="hover:text-blue-600 transition-colors">Video Editing</a>
